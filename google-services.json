@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983508512399",
+    "project_id": "pricecheck-7cfc3",
+    "storage_bucket": "pricecheck-7cfc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983508512399:android:86c8f7c38126488863cafa",
+        "android_client_info": {
+          "package_name": "com.belovedfx.pricecheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADI3OjTZ0-HIgX6IcFfKYD7rZOmszK5oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
